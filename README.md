@@ -1,2 +1,3 @@
-# fmita
-A powerful vscode extension for doc development
+# FMITA
+
+A powerful vscode extension for doc development.
